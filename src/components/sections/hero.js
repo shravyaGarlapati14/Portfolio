@@ -60,21 +60,21 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Shravya Garlapati.</h2>;
-  const three = <h3 className="big-heading">I build accessible, responsive web applications.</h3>;
+  const two = <h2 className="big-heading">Sai Shravya Garlapati.</h2>;
+  const three = (
+    <h3 className="big-heading">I build scalable, high-performance full-stack web applications.</h3>
+  );
   const four = (
     <>
       <p>
-        I’m a front-end engineer with 2+ years of experience crafting user-focused digital products. I specialize in React and Angular, turning Figma designs into pixel-perfect, accessible interfaces that perform seamlessly across devices. Currently, I’m focused on creating inclusive, performant web experiences that follow WCAG standards and deliver real value to users.
+        With 4+ years of experience, I specialize in Spring Boot microservices, REST APIs, Angular &
+        React frontends, Kafka-based event systems, AI-powered integrations, and AWS cloud
+        deployments, delivering secure and scalable enterprise applications.
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="/resume.pdf"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noreferrer">
       Check out my resume!
     </a>
   );

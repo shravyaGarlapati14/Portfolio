@@ -7,7 +7,9 @@ external: 'https://github.com/shravyaGarlapati14'
 tech:
   - Flutter
   - Dart
+  - Rest APIs
+  - Firebase
   - Material Design
 ---
 
-Water Me is a mobile app that helps plant lovers manage watering and sunlight schedules with personalized reminders and quick care tips. Built with Flutter, it focuses on a clean, minimal UI and intuitive flows suitable for all ages.
+A cross-platform Flutter mobile application that helps users manage plant watering and sunlight schedules with personalized reminders and intuitive care tips. Designed with a clean, minimal UI using Material Design, the app supports scalable backend integration for notification scheduling, user preferences, and future AI-based plant care recommendations.

@@ -5,11 +5,14 @@ cover: './TaskGenie.jpeg'
 github: 'https://github.com/Team4-PM/Task-Genie'
 external: 'https://github.com/Team4-PM/Task-Genie'
 tech:
-  - React
+  - React.js
   - Tailwind CSS
   - Spring Boot
   - Kafka
+  - Docker
+  - Kubernetes
+  - MySQL
   - AWS
 ---
 
-Task Genie is a professional service booking platform where I led the front-end using React and Tailwind CSS. It features responsive, accessible UI, secure forms, real-time updates, and integrated payment workflows—tuned for performance and WCAG compliance.
+A full-stack service booking platform built with React, Spring Boot microservices, Kafka, and AWS, featuring JWT-based authentication, real-time updates, and Stripe/PayPal payments, deployed using Docker, Kubernetes, and CI/CD automation.

@@ -1,18 +1,22 @@
 ---
 date: '2025-01-06'
-title: 'UX/UI Engineer Intern'
-company: 'Jaspar Technologies'
-location: 'Sanford, FL'
-range: 'January 2025 - July 2025'
-url: 'https://jaspartech.com/'
+title: 'Full-Stack Engineer'
+company: 'Verizon'
+location: 'Basking Ridge, NJ'
+range: 'May 2023 - Present'
+url: 'https://www.verizon.com/'
 ---
 
-- Converted high-fidelity Figma designs into responsive, production-ready web interfaces using React, HTML5, and CSS3 (SASS).
+- Modernized legacy monolithic applications into scalable Spring Boot microservices, improving system maintainability and reducing deployment time by 50%.
 
-- Built modular, reusable front-end components aligned with the in-house design system for consistency across projects.
+- Designed and developed RESTful APIs with Spring Security and JWT authentication, optimizing PostgreSQL/MySQL queries for 30% faster response times.
 
-- Collaborated with full-stack developers to connect the UI with backend services and ensure smooth data flow.
+- Built dynamic, responsive front-end interfaces using Angular 16+ and React, improving usability and cross-device consistency.
 
-- Prioritized accessibility by implementing WCAG 2.1 guidelines, keyboard navigation support, and ARIA attributes.
+- Implemented event-driven architecture with Apache Kafka and ActiveMQ for real-time data synchronization, reducing service latency by 40%.
 
-- Improved site responsiveness and load times through performance tuning across both desktop and mobile platforms.
+- Automated CI/CD pipelines using Jenkins, Maven, Docker, and Kubernetes (Helm), improving deployment reliability and reducing QA effort by 35%.
+
+- Integrated AI-powered automation using OpenAI GPT APIs to generate technical documentation and triage internal support tickets, saving 25% manual effort.
+
+- Collaborated with product managers and UX teams in Agile sprints to deliver high-performance, enterprise-grade features on time.

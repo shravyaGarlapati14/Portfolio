@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Angular', 'Tailwind CSS', 'SASS', 'Spring Boot', 'Python(Flask)'];
+  const skills = [
+    'Java & Spring Boot',
+    'Angular (16+) & React',
+    'AWS Cloud Deployment',
+    'Microservices',
+    'Kafka',
+    'Docker & Kubernetes',
+    'SQL & NoSQL',
+    'CI/CD',
+    'Python',
+    'AI/LLM Integration',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,12 +146,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Shravya, and I’m a front-end engineer who enjoys creating responsive, accessible applications that make a real difference for users. My journey started at Table Top Technologies in India, where I built and maintained enterprise web applications using Angular and React.  
-
-              After that, I moved to New York to pursue my Master’s in Computer Science at Pace University, which gave me the chance to deepen my technical skills and broaden my experience with modern web development practices.  
-
-              Most recently, I worked as a UX/UI Engineer Intern at Jaspar Technologies, translating Figma designs into pixel-perfect React components, optimizing performance, and ensuring accessibility compliance. My focus today is building inclusive, performant digital experiences with modern front-end technologies.  
-
+              Hello! I’m Sai Shravya Garlapati. I’m a full-stack developer building scalable,
+              high-performance web applications with Java, Spring Boot, React, and Angular. I love
+              turning complex requirements into clean, maintainable code and creating responsive,
+              user-focused digital experiences. My work spans microservices, cloud deployment on
+              AWS, CI/CD automation, and event-driven architectures. Currently, I’m focused on
+              delivering reliable, inclusive applications that perform seamlessly at scale.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

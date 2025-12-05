@@ -60,10 +60,10 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I’m currently seeking new opportunities where I can contribute my front-end skills in React, Angular, and modern web development.  
-If you’re hiring or know of a role that might be a good fit, I’d love to hear from you!  
-Feel free to reach out by email — I’ll get back to you as quickly as I can.
-
+        I’m currently seeking new opportunities where I can contribute my full-stack expertise in
+        Java, Spring Boot, Angular, React, Kafka, and AWS to build secure, scalable, and high-impact
+        applications. If you’re hiring or know of a role that could be a great fit, I’d love to
+        connect—feel free to reach out by email.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

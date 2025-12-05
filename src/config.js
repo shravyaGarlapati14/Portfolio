@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'shravyagarlapati1419@gmail.com',
+  email: 'shravyagarlapati3@gmail.com',
 
   socialMedia: [
     {
@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/shravyagarlapati1419/',
+      url: 'https://www.linkedin.com/in/shravyagarlapati/',
     },
   ],
 
