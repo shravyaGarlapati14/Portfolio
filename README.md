@@ -1,4 +1,4 @@
-Shravya Garlapati – Portfolio
+Sai Shravya Garlapati – Portfolio
 
 This is my personal portfolio website built with GatsbyJS, customized from Brittany Chiang’s v4 portfolio, and updated to showcase my own projects and experience.
 
