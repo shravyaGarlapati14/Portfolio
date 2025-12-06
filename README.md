@@ -24,21 +24,21 @@ Deployment: GitHub Pages / Netlify
 
 Other: GraphQL, Node.js
 
-Getting Started
+Getting Started:
 
-Clone the repo
+Clone the repo:
 git clone https://github.com/shravyaGarlapati14/Portfolio.git
 
-Move into folder
+Move into folder:
 cd Portfolio
 
-Install dependencies
+Install dependencies:
 yarn install
 
-Run locally
+Run locally:
 yarn start
 
-Build for production
+Build for production:
 yarn build
 
 ⭐️ If you like this project, consider giving it a star on GitHub!
